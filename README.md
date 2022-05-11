@@ -18,7 +18,7 @@ apenas o próprio cadastro, exceto alterar seu tipo para usuário master.
 
 # DESENVOLVIMENTO
 
-Front-end desenvolvimento com o auxilio do Bootstrap e Back-end realizado em PHP OO, com o uso de sessão. 
+Front-end desenvolvido com o auxilio do Bootstrap e Back-end realizado em PHP OO, com o uso de sessão. 
 
 
 
